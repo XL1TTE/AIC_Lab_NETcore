@@ -23,7 +23,7 @@ namespace AIC_NetCore.WinForms
 
             _navigationService.Navigated += UpdateView;
 
-            _navigationService.NavigateTo<StudentGraphicView>();
+            _navigationService.NavigateTo<StudentTableView>();
         }
 
         private void UpdateView(object sender, EventArgs e)

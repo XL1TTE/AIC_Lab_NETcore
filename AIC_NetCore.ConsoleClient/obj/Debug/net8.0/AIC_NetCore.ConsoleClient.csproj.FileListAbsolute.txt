@@ -22,3 +22,16 @@ C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore.ConsoleClient\obj\Debug\net8
 C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore.ConsoleClient\obj\Debug\net8.0\AIC_NetCore.ConsoleClient.pdb
 C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore.ConsoleClient\obj\Debug\net8.0\AIC_NetCore.ConsoleClient.genruntimeconfig.cache
 C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore.ConsoleClient\obj\Debug\net8.0\ref\AIC_NetCore.ConsoleClient.dll
+C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore.ConsoleClient\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore.ConsoleClient\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore.ConsoleClient\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore.ConsoleClient\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore.ConsoleClient\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore.ConsoleClient\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore.ConsoleClient\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore.ConsoleClient\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore.ConsoleClient\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore.ConsoleClient\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore.ConsoleClient\bin\Debug\net8.0\Npgsql.dll
+C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore.ConsoleClient\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore.ConsoleClient\obj\Debug\net8.0\AIC_NetCore.ConsoleClient.sourcelink.json

@@ -11,6 +11,7 @@ namespace AIC_NetCore.Application.Dtos
         public StudentDto() { }
         public StudentDto(string Name, string Speciality, string Group) =>
             (this.Name, this.Speciality, this.Group) = (Name, Speciality, Group);
+        public int Id { get; set; }
         public string Name { get; set; }
         public string Group { get; set; }
         public string Speciality { get; set; }

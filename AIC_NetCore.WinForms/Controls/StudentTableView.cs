@@ -45,10 +45,12 @@ namespace AIC_NetCore.WinForms.Controls
 
             StudentTable.DataSource = StudentToShow;
 
-            StudentTable.Columns[0].HeaderText = "Имя";
-            StudentTable.Columns[1].HeaderText = "Группа";
-            StudentTable.Columns[2].HeaderText = "Специальность";
 
+            StudentTable.Columns[1].HeaderText = "Имя";
+            StudentTable.Columns[2].HeaderText = "Группа";
+            StudentTable.Columns[3].HeaderText = "Специальность";
+
+            StudentTable.Columns["ID"].Visible = false;
         }
         private void AddStudentButton_Click(object sender, EventArgs e)
         {
@@ -68,7 +70,7 @@ namespace AIC_NetCore.WinForms.Controls
         }
         private void DeleteStudentButton_Click(object sender, EventArgs e)
         {
-            var studentToDelete = BuildStudentFromForm();
+            var studentToDelete = BuildStudentFromTable();
             _studentStore.RemoveStudent(studentToDelete);
 
             LoadStudentData();

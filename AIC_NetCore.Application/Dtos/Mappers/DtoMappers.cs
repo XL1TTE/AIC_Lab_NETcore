@@ -15,6 +15,7 @@ namespace AIC_NetCore.Application.Dtos.Mappers
         {
             return new Student
             {
+                Id = studentDto.Id,
                 Name = studentDto.Name,
                 Group = studentDto.Group,
                 Speciality = studentDto.Speciality,
@@ -24,6 +25,7 @@ namespace AIC_NetCore.Application.Dtos.Mappers
         {
             return new StudentDto
             {
+                Id = student.Id,
                 Name = student.Name,
                 Group = student.Group,
                 Speciality = student.Speciality,

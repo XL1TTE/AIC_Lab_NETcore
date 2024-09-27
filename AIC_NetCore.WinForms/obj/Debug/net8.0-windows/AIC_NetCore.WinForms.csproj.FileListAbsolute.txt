@@ -28,3 +28,16 @@ C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore.WinForms\obj\Debug\net8.0-wi
 C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore.WinForms\obj\Debug\net8.0-windows\ref\AIC_NetCore.WinForms.dll
 C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore.WinForms\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
 C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore.WinForms\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore.WinForms\obj\Debug\net8.0-windows\AIC_NetCore.WinForms.sourcelink.json
+C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore.WinForms\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore.WinForms\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore.WinForms\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore.WinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore.WinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore.WinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore.WinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore.WinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore.WinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore.WinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore.WinForms\bin\Debug\net8.0-windows\Npgsql.dll
+C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore.WinForms\bin\Debug\net8.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll

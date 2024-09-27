@@ -1,4 +1,5 @@
 ﻿using AIC_NetCore.Domain;
+using AIC_NetCore.Persistance.DbContexts;
 using AIC_NetCore.Persistance.IRepositories;
 using System;
 using System.Collections.Generic;
@@ -10,49 +11,48 @@ namespace AIC_NetCore.Persistance
 {
     public class EF_StudentRepository : IEntityRepository<Student>
     {
-        private List<Student> _students = new List<Student>()
+        private readonly DecanatDbContext _db;
+        public EF_StudentRepository()
         {
-                new Student("Студент1", "IT_1", "Group1"),
-                new Student("Студент2", "IT_2", "Group2"),
-                new Student("Студент3", "IT_3", "Group3"),
-                new Student("Студент4", "IT_4", "Group4"),
-                new Student("Студент8", "IT_4", "Group4"),
-                new Student("Студент9", "IT_4", "Group4"),
-                new Student("Студент5", "IT_5", "Group5"),
-                new Student("Студент6", "IT_5", "Group5"),
-                new Student("Студент7", "IT_5", "Group5"),
-        };
+            _db = new DecanatDbContext();
+        }
 
         public bool IsStudentExist(Student student)
         {
-            return _students.Contains(student);
+            return _db.Students.Any(x => x.Name == student.Name
+                               && x.Group == student.Group
+                               && x.Speciality == student.Speciality
+                               && x.Id != student.Id);
         }
         public void AddStudent(Student student)
         {
-            _students.Add(student);
+            _db.Students.Add(student);
+            _db.SaveChanges();
         }
 
         public IEnumerable<Student> GetAllStudents()
         {
 
-            return _students;
+            return _db.Students.OrderBy(x => x.Id).ToList();
         }
 
         public void RemoveStudent(Student student)
         {
-            _students.Remove(student);
+            var ToDelete = _db.Students.FirstOrDefault(x => x == student);
+
+            _db.Students.Remove(ToDelete);
+            _db.SaveChanges();
         }
 
         public void UpdateStudent(Student studentToUpdate, Student student)
         {
-            var student_index = _students.FindIndex(s =>
-            s.Name == studentToUpdate.Name &&
-            s.Speciality == studentToUpdate.Speciality &&
-            s.Group == studentToUpdate.Group);
+            var StudentToUpdate = _db.Students.Find(studentToUpdate.Id);
 
-            _students[student_index] = student;
+            StudentToUpdate.Name = student.Name;
+            StudentToUpdate.Group = student.Group;
+            studentToUpdate.Speciality = student.Speciality;  
 
-
+            _db.SaveChanges();
         }
     }
 }

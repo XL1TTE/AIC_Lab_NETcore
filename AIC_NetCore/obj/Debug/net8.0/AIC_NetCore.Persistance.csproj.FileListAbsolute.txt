@@ -13,3 +13,6 @@ C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore\obj\Debug\net8.0\AIC_NetCore
 C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore\obj\Debug\net8.0\refint\AIC_NetCore.Persistance.dll
 C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore\obj\Debug\net8.0\AIC_NetCore.Persistance.pdb
 C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore\obj\Debug\net8.0\ref\AIC_NetCore.Persistance.dll
+C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore\bin\Debug\net8.0\AIC_NetCore.Persistance.runtimeconfig.json
+C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore\obj\Debug\net8.0\AIC_NetCore.Persistance.sourcelink.json
+C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore\obj\Debug\net8.0\AIC_NetCore.Persistance.genruntimeconfig.cache

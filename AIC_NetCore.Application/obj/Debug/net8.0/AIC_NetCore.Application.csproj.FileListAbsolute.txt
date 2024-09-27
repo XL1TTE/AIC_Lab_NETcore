@@ -15,3 +15,4 @@ C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore.Application\obj\Debug\net8.0
 C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore.Application\obj\Debug\net8.0\refint\AIC_NetCore.Application.dll
 C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore.Application\obj\Debug\net8.0\AIC_NetCore.Application.pdb
 C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore.Application\obj\Debug\net8.0\ref\AIC_NetCore.Application.dll
+C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore.Application\obj\Debug\net8.0\AIC_NetCore.Application.sourcelink.json
