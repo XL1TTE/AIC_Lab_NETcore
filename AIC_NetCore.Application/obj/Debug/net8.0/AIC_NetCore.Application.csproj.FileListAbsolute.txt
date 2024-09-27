@@ -1,0 +1,17 @@
+C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore.Application\bin\Debug\net8.0\AIC_NetCore.Application.deps.json
+C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore.Application\bin\Debug\net8.0\AIC_NetCore.Application.dll
+C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore.Application\bin\Debug\net8.0\AIC_NetCore.Application.pdb
+C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore.Application\bin\Debug\net8.0\AIC_NetCore.Domain.dll
+C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore.Application\bin\Debug\net8.0\AIC_NetCore.Persistance.dll
+C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore.Application\bin\Debug\net8.0\AIC_NetCore.Domain.pdb
+C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore.Application\bin\Debug\net8.0\AIC_NetCore.Persistance.pdb
+C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore.Application\obj\Debug\net8.0\AIC_NetCore.Application.csproj.AssemblyReference.cache
+C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore.Application\obj\Debug\net8.0\AIC_NetCore.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore.Application\obj\Debug\net8.0\AIC_NetCore.Application.AssemblyInfoInputs.cache
+C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore.Application\obj\Debug\net8.0\AIC_NetCore.Application.AssemblyInfo.cs
+C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore.Application\obj\Debug\net8.0\AIC_NetCore.Application.csproj.CoreCompileInputs.cache
+C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore.Application\obj\Debug\net8.0\AIC_NetC.FAB8FE56.Up2Date
+C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore.Application\obj\Debug\net8.0\AIC_NetCore.Application.dll
+C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore.Application\obj\Debug\net8.0\refint\AIC_NetCore.Application.dll
+C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore.Application\obj\Debug\net8.0\AIC_NetCore.Application.pdb
+C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore.Application\obj\Debug\net8.0\ref\AIC_NetCore.Application.dll

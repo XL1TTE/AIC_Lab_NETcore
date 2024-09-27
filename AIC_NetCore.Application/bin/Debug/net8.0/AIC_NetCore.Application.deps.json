@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AIC_NetCore.Application/1.0.0": {
+        "dependencies": {
+          "AIC_NetCore.Domain": "1.0.0",
+          "AIC_NetCore.Persistance": "1.0.0"
+        },
+        "runtime": {
+          "AIC_NetCore.Application.dll": {}
+        }
+      },
+      "AIC_NetCore.Domain/1.0.0": {
+        "runtime": {
+          "AIC_NetCore.Domain.dll": {}
+        }
+      },
+      "AIC_NetCore.Persistance/1.0.0": {
+        "dependencies": {
+          "AIC_NetCore.Domain": "1.0.0"
+        },
+        "runtime": {
+          "AIC_NetCore.Persistance.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AIC_NetCore.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AIC_NetCore.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AIC_NetCore.Persistance/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

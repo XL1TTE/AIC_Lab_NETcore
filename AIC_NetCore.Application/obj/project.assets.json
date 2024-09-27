@@ -1,0 +1,119 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "AIC_NetCore.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/AIC_NetCore.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AIC_NetCore.Domain.dll": {}
+        }
+      },
+      "AIC_NetCore.Persistance/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "AIC_NetCore.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/AIC_NetCore.Persistance.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AIC_NetCore.Persistance.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AIC_NetCore.Domain/1.0.0": {
+      "type": "project",
+      "path": "../AIC_NetCore.Domain/AIC_NetCore.Domain.csproj",
+      "msbuildProject": "../AIC_NetCore.Domain/AIC_NetCore.Domain.csproj"
+    },
+    "AIC_NetCore.Persistance/1.0.0": {
+      "type": "project",
+      "path": "../AIC_NetCore/AIC_NetCore.Persistance.csproj",
+      "msbuildProject": "../AIC_NetCore/AIC_NetCore.Persistance.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "AIC_NetCore.Domain >= 1.0.0",
+      "AIC_NetCore.Persistance >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\zzzxl\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\zzzxl\\source\\repos\\AIC_NetCore\\AIC_NetCore.Application\\AIC_NetCore.Application.csproj",
+      "projectName": "AIC_NetCore.Application",
+      "projectPath": "C:\\Users\\zzzxl\\source\\repos\\AIC_NetCore\\AIC_NetCore.Application\\AIC_NetCore.Application.csproj",
+      "packagesPath": "C:\\Users\\zzzxl\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\zzzxl\\source\\repos\\AIC_NetCore\\AIC_NetCore.Application\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\zzzxl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\zzzxl\\source\\repos\\AIC_NetCore\\AIC_NetCore.Domain\\AIC_NetCore.Domain.csproj": {
+              "projectPath": "C:\\Users\\zzzxl\\source\\repos\\AIC_NetCore\\AIC_NetCore.Domain\\AIC_NetCore.Domain.csproj"
+            },
+            "C:\\Users\\zzzxl\\source\\repos\\AIC_NetCore\\AIC_NetCore\\AIC_NetCore.Persistance.csproj": {
+              "projectPath": "C:\\Users\\zzzxl\\source\\repos\\AIC_NetCore\\AIC_NetCore\\AIC_NetCore.Persistance.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

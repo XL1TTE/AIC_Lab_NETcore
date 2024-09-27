@@ -1,0 +1,11 @@
+C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore.Domain\bin\Debug\net8.0\AIC_NetCore.Domain.deps.json
+C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore.Domain\bin\Debug\net8.0\AIC_NetCore.Domain.dll
+C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore.Domain\bin\Debug\net8.0\AIC_NetCore.Domain.pdb
+C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore.Domain\obj\Debug\net8.0\AIC_NetCore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore.Domain\obj\Debug\net8.0\AIC_NetCore.Domain.AssemblyInfoInputs.cache
+C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore.Domain\obj\Debug\net8.0\AIC_NetCore.Domain.AssemblyInfo.cs
+C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore.Domain\obj\Debug\net8.0\AIC_NetCore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore.Domain\obj\Debug\net8.0\AIC_NetCore.Domain.dll
+C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore.Domain\obj\Debug\net8.0\refint\AIC_NetCore.Domain.dll
+C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore.Domain\obj\Debug\net8.0\AIC_NetCore.Domain.pdb
+C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore.Domain\obj\Debug\net8.0\ref\AIC_NetCore.Domain.dll
