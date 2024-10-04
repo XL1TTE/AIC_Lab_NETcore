@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\zzzxl\\source\\repos\\AIC_NetCore\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9D63C17B-F8EB-4184-8FE6-2E08B80D4340}|AIC_NetCore\\AIC_NetCore.Persistance.csproj|c:\\users\\zzzxl\\source\\repos\\aic_netcore\\aic_netcore\\irepositories\\ientityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D63C17B-F8EB-4184-8FE6-2E08B80D4340}|AIC_NetCore\\AIC_NetCore.Persistance.csproj|solutionrelative:aic_netcore\\irepositories\\ientityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D63C17B-F8EB-4184-8FE6-2E08B80D4340}|AIC_NetCore\\AIC_NetCore.Persistance.csproj|c:\\users\\zzzxl\\source\\repos\\aic_netcore\\aic_netcore\\ef_studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D63C17B-F8EB-4184-8FE6-2E08B80D4340}|AIC_NetCore\\AIC_NetCore.Persistance.csproj|solutionrelative:aic_netcore\\ef_studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B1C1AF39-528A-4B74-B2CD-0CBD4F27D338}|AIC_NetCore.WinForms\\AIC_NetCore.WinForms.csproj|c:\\users\\zzzxl\\source\\repos\\aic_netcore\\aic_netcore.winforms\\controls\\studentgraphicview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B1C1AF39-528A-4B74-B2CD-0CBD4F27D338}|AIC_NetCore.WinForms\\AIC_NetCore.WinForms.csproj|solutionrelative:aic_netcore.winforms\\controls\\studentgraphicview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{95770F15-928C-4447-B159-5E61BDF7BB58}|AIC_NetCore.Application\\AIC_NetCore.Application.csproj|c:\\users\\zzzxl\\source\\repos\\aic_netcore\\aic_netcore.application\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95770F15-928C-4447-B159-5E61BDF7BB58}|AIC_NetCore.Application\\AIC_NetCore.Application.csproj|solutionrelative:aic_netcore.application\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D63C17B-F8EB-4184-8FE6-2E08B80D4340}|AIC_NetCore\\AIC_NetCore.Persistance.csproj|c:\\users\\zzzxl\\source\\repos\\aic_netcore\\aic_netcore\\ef_studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D63C17B-F8EB-4184-8FE6-2E08B80D4340}|AIC_NetCore\\AIC_NetCore.Persistance.csproj|solutionrelative:aic_netcore\\ef_studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,6 +39,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "IEntityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\zzzxl\\source\\repos\\AIC_NetCore\\AIC_NetCore\\IRepositories\\IEntityRepository.cs",
+              "RelativeDocumentMoniker": "AIC_NetCore\\IRepositories\\IEntityRepository.cs",
+              "ToolTip": "C:\\Users\\zzzxl\\source\\repos\\AIC_NetCore\\AIC_NetCore\\IRepositories\\IEntityRepository.cs",
+              "RelativeToolTip": "AIC_NetCore\\IRepositories\\IEntityRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T04:18:35.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "StudentGraphicView.cs",
               "DocumentMoniker": "C:\\Users\\zzzxl\\source\\repos\\AIC_NetCore\\AIC_NetCore.WinForms\\Controls\\StudentGraphicView.cs",
               "RelativeDocumentMoniker": "AIC_NetCore.WinForms\\Controls\\StudentGraphicView.cs",
@@ -47,7 +64,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "StudentService.cs",
               "DocumentMoniker": "C:\\Users\\zzzxl\\source\\repos\\AIC_NetCore\\AIC_NetCore.Application\\StudentService.cs",
               "RelativeDocumentMoniker": "AIC_NetCore.Application\\StudentService.cs",
@@ -55,12 +72,11 @@
               "RelativeToolTip": "AIC_NetCore.Application\\StudentService.cs",
               "ViewState": "AQIAADEAAAAAAAAAAAAwwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T08:41:13.544Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-27T08:41:13.544Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "StudentDto.cs",
               "DocumentMoniker": "C:\\Users\\zzzxl\\source\\repos\\AIC_NetCore\\AIC_NetCore.Application\\Dtos\\StudentDto.cs",
               "RelativeDocumentMoniker": "AIC_NetCore.Application\\Dtos\\StudentDto.cs",
@@ -68,12 +84,11 @@
               "RelativeToolTip": "AIC_NetCore.Application\\Dtos\\StudentDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T08:41:11.117Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-27T08:41:11.117Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "StudentTableView.cs",
               "DocumentMoniker": "C:\\Users\\zzzxl\\source\\repos\\AIC_NetCore\\AIC_NetCore.WinForms\\Controls\\StudentTableView.cs",
               "RelativeDocumentMoniker": "AIC_NetCore.WinForms\\Controls\\StudentTableView.cs",
@@ -81,12 +96,11 @@
               "RelativeToolTip": "AIC_NetCore.WinForms\\Controls\\StudentTableView.cs",
               "ViewState": "AQIAAFgAAAAAAAAAAAAwwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T08:35:54.72Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-27T08:35:54.72Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "EF_StudentRepository.cs",
               "DocumentMoniker": "C:\\Users\\zzzxl\\source\\repos\\AIC_NetCore\\AIC_NetCore\\EF_StudentRepository.cs",
               "RelativeDocumentMoniker": "AIC_NetCore\\EF_StudentRepository.cs",

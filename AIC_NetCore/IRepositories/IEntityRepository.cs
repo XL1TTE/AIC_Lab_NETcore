@@ -9,10 +9,10 @@ namespace AIC_NetCore.Persistance.IRepositories
 {
     public interface IEntityRepository<Entity> where Entity: IDomainEntity
     {
-        IEnumerable<Student> GetAllStudents();
-        bool IsStudentExist(Student student);
-        void AddStudent(Student student);
-        void UpdateStudent(Student studentToUpdate, Student Student);
-        void RemoveStudent(Student student);
+        IEnumerable<Entity> GetAllStudents();
+        bool IsStudentExist(Entity student);
+        void AddStudent(Entity student);
+        void UpdateStudent(Entity studentToUpdate, Entity Student);
+        void RemoveStudent(Entity student);
     }
 }
