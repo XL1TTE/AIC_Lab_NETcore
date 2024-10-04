@@ -50,7 +50,7 @@ namespace AIC_NetCore.Persistance
 
             StudentToUpdate.Name = student.Name;
             StudentToUpdate.Group = student.Group;
-            studentToUpdate.Speciality = student.Speciality;  
+            StudentToUpdate.Speciality = student.Speciality;  
 
             _db.SaveChanges();
         }
