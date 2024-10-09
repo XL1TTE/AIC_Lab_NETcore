@@ -1,6 +1,7 @@
 ﻿using AIC_NetCore.Domain;
 using AIC_NetCore.Persistance.DbContexts;
 using AIC_NetCore.Persistance.IRepositories;
+using Npgsql;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -12,10 +13,8 @@ namespace AIC_NetCore.Persistance
     public class EF_StudentRepository : IEntityRepository<Student>
     {
         private readonly DecanatDbContext _db;
-        public EF_StudentRepository()
-        {
-            _db = new DecanatDbContext();
-        }
+        public EF_StudentRepository(string connectionString) { _db = new DecanatDbContext(connectionString); }
+        public EF_StudentRepository(NpgsqlConnectionStringBuilder connectionBuilder) { _db = new DecanatDbContext(connectionBuilder.ConnectionString); }
 
         public bool IsStudentExist(Student student)
         {

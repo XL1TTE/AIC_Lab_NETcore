@@ -13,7 +13,8 @@ namespace AIC_NetCore.ConsoleClient
         {
             var _serviceProvider = new ServiceCollection()
             .AddSingleton<IStudentService, StudentService>()
-            .AddSingleton<IEntityRepository<Student>, EF_StudentRepository>()
+            .AddSingleton<IEntityRepository<Student>, EF_StudentRepository>(p =>
+            new EF_StudentRepository("Host=localhost;Port=5432;Username=postgres;Password=Dsbuhsdf.gentdre1;Database=aicDecanat"))
             .AddSingleton<StudentConsoleHandler>()
             .BuildServiceProvider();
 

@@ -9,6 +9,7 @@ namespace AIC_NetCore.Persistance.IRepositories
 {
     public interface IEntityRepository<Entity> where Entity: IDomainEntity
     {
+        
         IEnumerable<Entity> GetAllStudents();
         bool IsStudentExist(Entity student);
         void AddStudent(Entity student);

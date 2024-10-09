@@ -12,20 +12,14 @@ namespace AIC_NetCore.Persistance.DbContexts
 {
     public class DecanatDbContext : DbContext
     {
-        public DecanatDbContext() { }
+        private readonly string _connectionString;
+        public DecanatDbContext(string connectionString) { _connectionString = connectionString; }
         public DbSet<Student> Students { get; set; } = null!;
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            var connectionStringBuilder = new NpgsqlConnectionStringBuilder
-            {
-                Host = "localhost",
-                Port = 5432,
-                Database = "aicDecanat",
-                Username = "postgres",
-                Password = "Dsbuhsdf.gentdre1"
-            };
 
-            optionsBuilder.UseNpgsql(connectionStringBuilder.ConnectionString);
+
+            optionsBuilder.UseNpgsql(_connectionString);
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

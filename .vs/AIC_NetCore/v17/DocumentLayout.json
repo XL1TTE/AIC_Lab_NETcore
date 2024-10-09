@@ -1,12 +1,275 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\zzzxl\\source\\repos\\AIC_NetCore\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C1AF39-528A-4B74-B2CD-0CBD4F27D338}|AIC_NetCore.WinForms\\AIC_NetCore.WinForms.csproj|c:\\users\\zzzxl\\source\\repos\\aic_netcore\\aic_netcore.winforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C1AF39-528A-4B74-B2CD-0CBD4F27D338}|AIC_NetCore.WinForms\\AIC_NetCore.WinForms.csproj|solutionrelative:aic_netcore.winforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D63C17B-F8EB-4184-8FE6-2E08B80D4340}|AIC_NetCore\\AIC_NetCore.Persistance.csproj|c:\\users\\zzzxl\\source\\repos\\aic_netcore\\aic_netcore\\dataaccessobjects(daos)\\pgsql_dataaccessobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D63C17B-F8EB-4184-8FE6-2E08B80D4340}|AIC_NetCore\\AIC_NetCore.Persistance.csproj|solutionrelative:aic_netcore\\dataaccessobjects(daos)\\pgsql_dataaccessobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D63C17B-F8EB-4184-8FE6-2E08B80D4340}|AIC_NetCore\\AIC_NetCore.Persistance.csproj|c:\\users\\zzzxl\\source\\repos\\aic_netcore\\aic_netcore\\dataaccessobjects(daos)\\dataaccesobjectbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D63C17B-F8EB-4184-8FE6-2E08B80D4340}|AIC_NetCore\\AIC_NetCore.Persistance.csproj|solutionrelative:aic_netcore\\dataaccessobjects(daos)\\dataaccesobjectbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D63C17B-F8EB-4184-8FE6-2E08B80D4340}|AIC_NetCore\\AIC_NetCore.Persistance.csproj|c:\\users\\zzzxl\\source\\repos\\aic_netcore\\aic_netcore\\dapper_studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D63C17B-F8EB-4184-8FE6-2E08B80D4340}|AIC_NetCore\\AIC_NetCore.Persistance.csproj|solutionrelative:aic_netcore\\dapper_studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D63C17B-F8EB-4184-8FE6-2E08B80D4340}|AIC_NetCore\\AIC_NetCore.Persistance.csproj|c:\\users\\zzzxl\\source\\repos\\aic_netcore\\aic_netcore\\ef_studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D63C17B-F8EB-4184-8FE6-2E08B80D4340}|AIC_NetCore\\AIC_NetCore.Persistance.csproj|solutionrelative:aic_netcore\\ef_studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C1AF39-528A-4B74-B2CD-0CBD4F27D338}|AIC_NetCore.WinForms\\AIC_NetCore.WinForms.csproj|c:\\users\\zzzxl\\source\\repos\\aic_netcore\\aic_netcore.winforms\\controls\\studenttableview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C1AF39-528A-4B74-B2CD-0CBD4F27D338}|AIC_NetCore.WinForms\\AIC_NetCore.WinForms.csproj|solutionrelative:aic_netcore.winforms\\controls\\studenttableview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D63C17B-F8EB-4184-8FE6-2E08B80D4340}|AIC_NetCore\\AIC_NetCore.Persistance.csproj|c:\\users\\zzzxl\\source\\repos\\aic_netcore\\aic_netcore\\irepositories\\ientityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D63C17B-F8EB-4184-8FE6-2E08B80D4340}|AIC_NetCore\\AIC_NetCore.Persistance.csproj|solutionrelative:aic_netcore\\irepositories\\ientityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFF47EA-8E5F-4B07-8038-FB56980BBBA1}|AIC_NetCore.ConsoleClient\\AIC_NetCore.ConsoleClient.csproj|c:\\users\\zzzxl\\source\\repos\\aic_netcore\\aic_netcore.consoleclient\\studentconsolehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAFF47EA-8E5F-4B07-8038-FB56980BBBA1}|AIC_NetCore.ConsoleClient\\AIC_NetCore.ConsoleClient.csproj|solutionrelative:aic_netcore.consoleclient\\studentconsolehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFF47EA-8E5F-4B07-8038-FB56980BBBA1}|AIC_NetCore.ConsoleClient\\AIC_NetCore.ConsoleClient.csproj|c:\\users\\zzzxl\\source\\repos\\aic_netcore\\aic_netcore.consoleclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAFF47EA-8E5F-4B07-8038-FB56980BBBA1}|AIC_NetCore.ConsoleClient\\AIC_NetCore.ConsoleClient.csproj|solutionrelative:aic_netcore.consoleclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D63C17B-F8EB-4184-8FE6-2E08B80D4340}|AIC_NetCore\\AIC_NetCore.Persistance.csproj|c:\\users\\zzzxl\\source\\repos\\aic_netcore\\aic_netcore\\dbcontexts\\decanatdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D63C17B-F8EB-4184-8FE6-2E08B80D4340}|AIC_NetCore\\AIC_NetCore.Persistance.csproj|solutionrelative:aic_netcore\\dbcontexts\\decanatdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D65519D6-DCBE-4A44-909B-9B5F6AFAD065}|AIC_NetCore.Domain\\AIC_NetCore.Domain.csproj|c:\\users\\zzzxl\\source\\repos\\aic_netcore\\aic_netcore.domain\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D65519D6-DCBE-4A44-909B-9B5F6AFAD065}|AIC_NetCore.Domain\\AIC_NetCore.Domain.csproj|solutionrelative:aic_netcore.domain\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95770F15-928C-4447-B159-5E61BDF7BB58}|AIC_NetCore.Application\\AIC_NetCore.Application.csproj|c:\\users\\zzzxl\\source\\repos\\aic_netcore\\aic_netcore.application\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95770F15-928C-4447-B159-5E61BDF7BB58}|AIC_NetCore.Application\\AIC_NetCore.Application.csproj|solutionrelative:aic_netcore.application\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95770F15-928C-4447-B159-5E61BDF7BB58}|AIC_NetCore.Application\\AIC_NetCore.Application.csproj|c:\\users\\zzzxl\\source\\repos\\aic_netcore\\aic_netcore.application\\istores\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95770F15-928C-4447-B159-5E61BDF7BB58}|AIC_NetCore.Application\\AIC_NetCore.Application.csproj|solutionrelative:aic_netcore.application\\istores\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C1AF39-528A-4B74-B2CD-0CBD4F27D338}|AIC_NetCore.WinForms\\AIC_NetCore.WinForms.csproj|c:\\users\\zzzxl\\source\\repos\\aic_netcore\\aic_netcore.winforms\\controls\\studentgraphicview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C1AF39-528A-4B74-B2CD-0CBD4F27D338}|AIC_NetCore.WinForms\\AIC_NetCore.WinForms.csproj|solutionrelative:aic_netcore.winforms\\controls\\studentgraphicview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C1AF39-528A-4B74-B2CD-0CBD4F27D338}|AIC_NetCore.WinForms\\AIC_NetCore.WinForms.csproj|c:\\users\\zzzxl\\source\\repos\\aic_netcore\\aic_netcore.winforms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C1AF39-528A-4B74-B2CD-0CBD4F27D338}|AIC_NetCore.WinForms\\AIC_NetCore.WinForms.csproj|solutionrelative:aic_netcore.winforms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zzzxl\\source\\repos\\AIC_NetCore\\AIC_NetCore.WinForms\\Program.cs",
+              "RelativeDocumentMoniker": "AIC_NetCore.WinForms\\Program.cs",
+              "ToolTip": "C:\\Users\\zzzxl\\source\\repos\\AIC_NetCore\\AIC_NetCore.WinForms\\Program.cs",
+              "RelativeToolTip": "AIC_NetCore.WinForms\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAQwCIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:14:54.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataAccesObjectBase.cs",
+              "DocumentMoniker": "C:\\Users\\zzzxl\\source\\repos\\AIC_NetCore\\AIC_NetCore\\DataAccessObjects(DAOs)\\DataAccesObjectBase.cs",
+              "RelativeDocumentMoniker": "AIC_NetCore\\DataAccessObjects(DAOs)\\DataAccesObjectBase.cs",
+              "ToolTip": "C:\\Users\\zzzxl\\source\\repos\\AIC_NetCore\\AIC_NetCore\\DataAccessObjects(DAOs)\\DataAccesObjectBase.cs",
+              "RelativeToolTip": "AIC_NetCore\\DataAccessObjects(DAOs)\\DataAccesObjectBase.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:00:11.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "pgsql_DataAccessObject.cs",
+              "DocumentMoniker": "C:\\Users\\zzzxl\\source\\repos\\AIC_NetCore\\AIC_NetCore\\DataAccessObjects(DAOs)\\pgsql_DataAccessObject.cs",
+              "RelativeDocumentMoniker": "AIC_NetCore\\DataAccessObjects(DAOs)\\pgsql_DataAccessObject.cs",
+              "ToolTip": "C:\\Users\\zzzxl\\source\\repos\\AIC_NetCore\\AIC_NetCore\\DataAccessObjects(DAOs)\\pgsql_DataAccessObject.cs",
+              "RelativeToolTip": "AIC_NetCore\\DataAccessObjects(DAOs)\\pgsql_DataAccessObject.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T12:53:27.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dapper_StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\zzzxl\\source\\repos\\AIC_NetCore\\AIC_NetCore\\Dapper_StudentRepository.cs",
+              "RelativeDocumentMoniker": "AIC_NetCore\\Dapper_StudentRepository.cs",
+              "ToolTip": "C:\\Users\\zzzxl\\source\\repos\\AIC_NetCore\\AIC_NetCore\\Dapper_StudentRepository.cs",
+              "RelativeToolTip": "AIC_NetCore\\Dapper_StudentRepository.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAowCwAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:03:29.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EF_StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\zzzxl\\source\\repos\\AIC_NetCore\\AIC_NetCore\\EF_StudentRepository.cs",
+              "RelativeDocumentMoniker": "AIC_NetCore\\EF_StudentRepository.cs",
+              "ToolTip": "C:\\Users\\zzzxl\\source\\repos\\AIC_NetCore\\AIC_NetCore\\EF_StudentRepository.cs",
+              "RelativeToolTip": "AIC_NetCore\\EF_StudentRepository.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAA4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:30:41.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentTableView.cs",
+              "DocumentMoniker": "C:\\Users\\zzzxl\\source\\repos\\AIC_NetCore\\AIC_NetCore.WinForms\\Controls\\StudentTableView.cs",
+              "RelativeDocumentMoniker": "AIC_NetCore.WinForms\\Controls\\StudentTableView.cs",
+              "ToolTip": "C:\\Users\\zzzxl\\source\\repos\\AIC_NetCore\\AIC_NetCore.WinForms\\Controls\\StudentTableView.cs",
+              "RelativeToolTip": "AIC_NetCore.WinForms\\Controls\\StudentTableView.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAD4vyIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:48:47.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEntityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\zzzxl\\source\\repos\\AIC_NetCore\\AIC_NetCore\\IRepositories\\IEntityRepository.cs",
+              "RelativeDocumentMoniker": "AIC_NetCore\\IRepositories\\IEntityRepository.cs",
+              "ToolTip": "C:\\Users\\zzzxl\\source\\repos\\AIC_NetCore\\AIC_NetCore\\IRepositories\\IEntityRepository.cs",
+              "RelativeToolTip": "AIC_NetCore\\IRepositories\\IEntityRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:32:41.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentConsoleHandler.cs",
+              "DocumentMoniker": "C:\\Users\\zzzxl\\source\\repos\\AIC_NetCore\\AIC_NetCore.ConsoleClient\\StudentConsoleHandler.cs",
+              "RelativeDocumentMoniker": "AIC_NetCore.ConsoleClient\\StudentConsoleHandler.cs",
+              "ToolTip": "C:\\Users\\zzzxl\\source\\repos\\AIC_NetCore\\AIC_NetCore.ConsoleClient\\StudentConsoleHandler.cs",
+              "RelativeToolTip": "AIC_NetCore.ConsoleClient\\StudentConsoleHandler.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAswDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:42:13.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DecanatDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\zzzxl\\source\\repos\\AIC_NetCore\\AIC_NetCore\\DbContexts\\DecanatDbContext.cs",
+              "RelativeDocumentMoniker": "AIC_NetCore\\DbContexts\\DecanatDbContext.cs",
+              "ToolTip": "C:\\Users\\zzzxl\\source\\repos\\AIC_NetCore\\AIC_NetCore\\DbContexts\\DecanatDbContext.cs",
+              "RelativeToolTip": "AIC_NetCore\\DbContexts\\DecanatDbContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:32:36.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zzzxl\\source\\repos\\AIC_NetCore\\AIC_NetCore.ConsoleClient\\Program.cs",
+              "RelativeDocumentMoniker": "AIC_NetCore.ConsoleClient\\Program.cs",
+              "ToolTip": "C:\\Users\\zzzxl\\source\\repos\\AIC_NetCore\\AIC_NetCore.ConsoleClient\\Program.cs",
+              "RelativeToolTip": "AIC_NetCore.ConsoleClient\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAcwBAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:39:49.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\zzzxl\\source\\repos\\AIC_NetCore\\AIC_NetCore.Application\\StudentService.cs",
+              "RelativeDocumentMoniker": "AIC_NetCore.Application\\StudentService.cs",
+              "ToolTip": "C:\\Users\\zzzxl\\source\\repos\\AIC_NetCore\\AIC_NetCore.Application\\StudentService.cs",
+              "RelativeToolTip": "AIC_NetCore.Application\\StudentService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:44:34.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\zzzxl\\source\\repos\\AIC_NetCore\\AIC_NetCore.Domain\\Student.cs",
+              "RelativeDocumentMoniker": "AIC_NetCore.Domain\\Student.cs",
+              "ToolTip": "C:\\Users\\zzzxl\\source\\repos\\AIC_NetCore\\AIC_NetCore.Domain\\Student.cs",
+              "RelativeToolTip": "AIC_NetCore.Domain\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:20:28.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\zzzxl\\source\\repos\\AIC_NetCore\\AIC_NetCore.Application\\IStores\\IStudentService.cs",
+              "RelativeDocumentMoniker": "AIC_NetCore.Application\\IStores\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\zzzxl\\source\\repos\\AIC_NetCore\\AIC_NetCore.Application\\IStores\\IStudentService.cs",
+              "RelativeToolTip": "AIC_NetCore.Application\\IStores\\IStudentService.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:47:15.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StudentGraphicView.cs",
+              "DocumentMoniker": "C:\\Users\\zzzxl\\source\\repos\\AIC_NetCore\\AIC_NetCore.WinForms\\Controls\\StudentGraphicView.cs",
+              "RelativeDocumentMoniker": "AIC_NetCore.WinForms\\Controls\\StudentGraphicView.cs",
+              "ToolTip": "C:\\Users\\zzzxl\\source\\repos\\AIC_NetCore\\AIC_NetCore.WinForms\\Controls\\StudentGraphicView.cs",
+              "RelativeToolTip": "AIC_NetCore.WinForms\\Controls\\StudentGraphicView.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwCAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:48:14.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\zzzxl\\source\\repos\\AIC_NetCore\\AIC_NetCore.WinForms\\MainForm.cs",
+              "RelativeDocumentMoniker": "AIC_NetCore.WinForms\\MainForm.cs",
+              "ToolTip": "C:\\Users\\zzzxl\\source\\repos\\AIC_NetCore\\AIC_NetCore.WinForms\\MainForm.cs",
+              "RelativeToolTip": "AIC_NetCore.WinForms\\MainForm.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T05:33:43.21Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

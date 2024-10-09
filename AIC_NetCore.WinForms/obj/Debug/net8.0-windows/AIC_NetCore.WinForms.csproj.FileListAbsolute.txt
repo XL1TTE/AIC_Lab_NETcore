@@ -41,3 +41,5 @@ C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore.WinForms\bin\Debug\net8.0-wi
 C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore.WinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
 C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore.WinForms\bin\Debug\net8.0-windows\Npgsql.dll
 C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore.WinForms\bin\Debug\net8.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore.WinForms\bin\Debug\net8.0-windows\Dapper.dll
+C:\Users\zzzxl\source\repos\AIC_NetCore\AIC_NetCore.WinForms\bin\Debug\net8.0-windows\System.Text.Json.dll

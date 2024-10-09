@@ -18,6 +18,14 @@
           "AIC_NetCore.WinForms.dll": {}
         }
       },
+      "Dapper/2.1.35": {
+        "runtime": {
+          "lib/net7.0/Dapper.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.1.35.13827"
+          }
+        }
+      },
       "Microsoft.EntityFrameworkCore/8.0.8": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore.Abstractions": "8.0.8",
@@ -178,6 +186,14 @@
           }
         }
       },
+      "System.Text.Json/8.0.5": {
+        "runtime": {
+          "lib/net8.0/System.Text.Json.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.1024.46610"
+          }
+        }
+      },
       "WinForms.DataVisualization/1.9.2": {
         "runtime": {
           "lib/net8.0-windows7.0/WinForms.DataVisualization.Utilities.dll": {
@@ -207,7 +223,9 @@
       "AIC_NetCore.Persistance/1.0.0": {
         "dependencies": {
           "AIC_NetCore.Domain": "1.0.0",
-          "Npgsql.EntityFrameworkCore.PostgreSQL": "8.0.8"
+          "Dapper": "2.1.35",
+          "Npgsql.EntityFrameworkCore.PostgreSQL": "8.0.8",
+          "System.Text.Json": "8.0.5"
         },
         "runtime": {
           "AIC_NetCore.Persistance.dll": {}
@@ -220,6 +238,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "Dapper/2.1.35": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YKRwjVfrG7GYOovlGyQoMvr1/IJdn+7QzNXJxyMh0YfFF5yvDmTYaJOVYWsckreNjGsGSEtrMTpnzxTUq/tZQw==",
+      "path": "dapper/2.1.35",
+      "hashPath": "dapper.2.1.35.nupkg.sha512"
     },
     "Microsoft.EntityFrameworkCore/8.0.8": {
       "type": "package",
@@ -325,6 +350,13 @@
       "sha512": "sha512-D5WWJZJTgZYUmGv66BARXbTlinp2a5f5RueJqGYoHuWJw02J0i2va/RA+8N4A5hLORK5YKMRqXhFWtKsZdrksw==",
       "path": "npgsql.entityframeworkcore.postgresql/8.0.8",
       "hashPath": "npgsql.entityframeworkcore.postgresql.8.0.8.nupkg.sha512"
+    },
+    "System.Text.Json/8.0.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0f1B50Ss7rqxXiaBJyzUu9bWFOO2/zSlifZ/UNMdiIpDYe4cY4LQQicP4nirK1OS31I43rn062UIJ1Q9bpmHpg==",
+      "path": "system.text.json/8.0.5",
+      "hashPath": "system.text.json.8.0.5.nupkg.sha512"
     },
     "WinForms.DataVisualization/1.9.2": {
       "type": "package",

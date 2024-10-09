@@ -47,7 +47,7 @@ namespace AIC_NetCore.ConsoleClient
 
             var speciality = Console.ReadLine();
 
-            return new StudentDto(name, group, speciality);
+            return new StudentDto(name, speciality, group);
         }
 
         /// <summary>

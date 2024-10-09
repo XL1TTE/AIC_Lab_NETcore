@@ -6,6 +6,8 @@ using Microsoft.Extensions.DependencyInjection;
 using AIC_NetCore.Persistance.IRepositories;
 using AIC_NetCore.Domain;
 using AIC_NetCore.Persistance;
+using Npgsql;
+using System.Data.Common;
 
 namespace AIC_NetCore.WinForms
 {
@@ -21,8 +23,21 @@ namespace AIC_NetCore.WinForms
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             var serviceProvider = new ServiceCollection()
-                .AddSingleton<IEntityRepository<Student>, EF_StudentRepository>()
+                .AddSingleton<IEntityRepository<Student>, EF_StudentRepository>(p => 
+                new EF_StudentRepository
+                (
+                    new NpgsqlConnectionStringBuilder
+                    {
+                        Host = "localhost",
+                        Port = 5432,
+                        Database = "aicDecanat",
+                        Username = "postgres",
+                        Password = "Dsbuhsdf.gentdre1"
+                    }
+                ))
                 .AddSingleton<IStudentService, StudentService>()
+
+
                 .AddSingleton<MainForm>()
                 .AddSingleton<StudentTableView>()
                 .AddSingleton<StudentGraphicView>()
